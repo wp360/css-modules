@@ -3,10 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "custom-react-scripts": "0.2.0",
+    "classnames": "^2.2.5",
+    "custom-react-scripts": "0.0.23",
     "react": "^15.6.1",
     "react-dom": "^15.6.1"
   },
+  "devDependencies": {},
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
